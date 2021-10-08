@@ -10963,7 +10963,7 @@
     "ID": 2162,
     "EPA_reg_num": "777-141",
     "Active_ingredient": [
-      "Ethanol"
+      "Ethanol (Ethyl alcohol)"
     ],
     "Product_name": "Coleslaw",
     "Follow_directions_for_this_virus": "Feline calicivirus",
@@ -10982,7 +10982,8 @@
       "Residential"
     ],
     "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
-    "Date_on_List_N": "2021-08-24"
+    "Date_on_List_N": "2021-08-24",
+    "Safer_or_Toxic": "Safer"
   },
   {
     "ID": 1142,
