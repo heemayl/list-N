@@ -3016,6 +3016,21 @@
       null
     ],
     [
+      2226,
+      "55364-3",
+      "Quatenary Ammonium Compounds ",
+      "Control III Laboratory Disinfectant/Germicide",
+      "SARS-CoV-2",
+      10,
+      "Maril Products Inc",
+      "Dilutable",
+      "Hard Nonporous (HN)",
+      "Healthcare; Institutional",
+      "Tested against SARS-CoV-2 (COVID-19)",
+      "November, 23 2021 00:00:00",
+      null
+    ],
+    [
       1261,
       "55364-4",
       "Quaternary ammonium",
@@ -4711,6 +4726,21 @@
       null
     ],
     [
+      2229,
+      "6836-138",
+      "Quatenary Ammonium Compounds ",
+      "Lonza Formulation S-38-F",
+      "SARS-CoV-2",
+      1,
+      "Arxanda, LLC",
+      "Dilutable",
+      "Hard Nonporous (HN)",
+      "Institutional; Residential",
+      "Tested against SARS-CoV-2 (COVID-19)",
+      "November, 23 2021 00:00:00",
+      null
+    ],
+    [
       1104,
       "6836-139",
       "Quaternary ammonium",
@@ -5293,6 +5323,21 @@
       "Healthcare; Institutional; Residential",
       "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
       "March, 03 2020 00:00:00",
+      null
+    ],
+    [
+      2230,
+      "6836-73",
+      "Quatenary Ammonium Compounds ",
+      "Lonza Formulation S-38",
+      "SARS-CoV-2",
+      1,
+      "Arxanda, LLC",
+      "Dilutable",
+      "Hard Nonporous (HN)",
+      "Institutional; Residential",
+      "Tested against SARS-CoV-2 (COVID-19)",
+      "November, 23 2021 00:00:00",
       null
     ],
     [
@@ -6043,6 +6088,21 @@
       "Healthcare; Institutional; Residential",
       "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
       "March, 16 2021 00:00:00",
+      null
+    ],
+    [
+      2224,
+      "70627-83",
+      "Hydrogen Peroxide",
+      "Alpha - HP 5",
+      "Canine Parvovirus",
+      5,
+      "Diversey Inc",
+      "Dilutable",
+      "Hard Nonporous (HN)",
+      "Healthcare; Institutional",
+      "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+      "November, 23 2021 00:00:00",
       null
     ],
     [
@@ -7381,6 +7441,21 @@
       null
     ],
     [
+      2227,
+      "88341-11",
+      "Chlorine Dioxide",
+      "Pure 100",
+      "Feline Calicivirus",
+      10,
+      "T.A. Comb, LLC",
+      "Ready-to-use",
+      "Hard Nonporous (HN)",
+      "Healthcare; Institutional; Residential",
+      "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+      "November, 23 2021 00:00:00",
+      null
+    ],
+    [
       1077,
       "88373-1",
       "Hypochlorous acid",
@@ -7753,6 +7828,21 @@
       "Healthcare; Institutional",
       "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
       "April, 23 2020 00:00:00",
+      null
+    ],
+    [
+      2228,
+      "91386-1",
+      "Sodium Chloride",
+      "Salt Cartridge For Giselle",
+      "Feline Calicivirus",
+      10,
+      "Industrie De Nora, S.P.A.",
+      "Generator",
+      "Hard Nonporous (HN)",
+      "Institutional ",
+      "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+      "November, 23 2021 00:00:00",
       null
     ],
     [
@@ -8551,6 +8641,21 @@
       null
     ],
     [
+      2225,
+      "96738-3",
+      "Quaternary ammonium; Ethanol (Ethyl alcohol)",
+      "Aktive Disinfecting Wipes",
+      "SARS-CoV-2",
+      10,
+      "Vaxman Group 2015 LTD",
+      "Wipe",
+      "Hard Nonporous (HN)",
+      "Healthcare; Institutional",
+      "Tested against SARS-CoV-2 (COVID-19)",
+      "November, 23 2021 00:00:00",
+      null
+    ],
+    [
       1149,
       "96865-1",
       "Hypochlorous acid",
@@ -8600,7 +8705,7 @@
       "97101-2",
       "Hypochlorous acid",
       "Simple Elements",
-      null,
+      "SARS-CoV-2",
       10,
       "Sapphire Services LLC",
       "Dilutable",
