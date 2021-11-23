@@ -744,7 +744,7 @@
       "Quaternary ammonium"
     ],
     "Product_name": "Maquat 615-HD",
-    "Follow_directions_for_this_virus": "Human coronavirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
     "Company": "Mason Chemical Company",
     "Formulation_type": [
@@ -759,7 +759,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-03-13",
     "Safer_or_Toxic": "Toxic"
   },
@@ -770,7 +770,7 @@
       "Quaternary ammonium"
     ],
     "Product_name": "Maquat 5.5-M",
-    "Follow_directions_for_this_virus": "Human coronavirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
     "Company": "Mason Chemical Company",
     "Formulation_type": [
@@ -784,7 +784,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-03-13",
     "Safer_or_Toxic": "Toxic"
   },
@@ -2210,6 +2210,29 @@
     "Safer_or_Toxic": "Safer"
   },
   {
+    "ID": 2222,
+    "EPA_reg_num": "1677-43",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Ster-bac",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 4,
+    "Company": "Ecolab Inc",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Institutional"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
+    "Date_on_List_N": "2021-11-23",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 2100,
     "EPA_reg_num": "178-9",
     "Active_ingredient": [
@@ -2730,8 +2753,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "SC-5:64N",
-    "Follow_directions_for_this_virus": "Simian rotavirus",
-    "Contact_time": 5,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 2,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2745,7 +2768,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-16",
     "Safer_or_Toxic": "Toxic"
   },
@@ -2756,8 +2779,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "SC-5:256N",
-    "Follow_directions_for_this_virus": "Rotavirus",
-    "Contact_time": 5,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 2,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2771,7 +2794,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-23",
     "Safer_or_Toxic": "Toxic"
   },
@@ -2782,8 +2805,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "SC-5:128N",
-    "Follow_directions_for_this_virus": "Rotavirus",
-    "Contact_time": 5,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 2,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2797,7 +2820,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-02",
     "Safer_or_Toxic": "Toxic"
   },
@@ -3367,6 +3390,31 @@
     "Safer_or_Toxic": "Safer"
   },
   {
+    "ID": 2220,
+    "EPA_reg_num": "3573-100",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Markie",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 5,
+    "Company": "Proctor & Gamble",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
+    "Date_on_List_N": "2021-11-23",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1169,
     "EPA_reg_num": "3573-54",
     "Active_ingredient": [
@@ -3423,8 +3471,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "Malibu Concentrate",
-    "Follow_directions_for_this_virus": "Feline calicivirus; Norovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 2,
     "Company": "The Proctor & Gamble Company",
     "Formulation_type": [
       "Dilutable"
@@ -3438,7 +3486,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-16",
     "Safer_or_Toxic": "Toxic"
   },
@@ -4859,7 +4907,7 @@
       "Phenolic"
     ],
     "Product_name": "Spraypak Spray Disinfectant/Lubricant",
-    "Follow_directions_for_this_virus": "Mycobacterium bovis",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
     "Company": "Chase Products Co",
     "Formulation_type": [
@@ -4872,7 +4920,7 @@
       "Healthcare",
       "Institutional"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-07-23",
     "Safer_or_Toxic": "Toxic"
   },
@@ -7676,7 +7724,7 @@
       "Hypochlorous acid"
     ],
     "Product_name": "Galaxy",
-    "Follow_directions_for_this_virus": "Canine parvovirus; Rhinovirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
     "Company": "Clorox Professional Products Company",
     "Formulation_type": [
@@ -7691,7 +7739,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-05-07",
     "Safer_or_Toxic": "Toxic"
   },
@@ -7959,7 +8007,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -7985,7 +8034,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8010,7 +8060,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8035,7 +8086,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Ready-to-use"
+      "Ready-to-use",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -8061,7 +8113,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -8087,7 +8140,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8108,11 +8162,12 @@
       "Quaternary ammonium"
     ],
     "Product_name": "BARDAC 205M-23",
-    "Follow_directions_for_this_virus": "Norovirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -8123,7 +8178,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-03-03",
     "Safer_or_Toxic": "Toxic"
   },
@@ -8488,10 +8543,11 @@
     ],
     "Product_name": "Nugen MB5N-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8513,10 +8569,11 @@
     ],
     "Product_name": "Nugen MB5N-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8538,10 +8595,11 @@
     ],
     "Product_name": "Nugen MB5N-64",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8793,7 +8851,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -9519,8 +9578,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "Claire Disinfectant Spray Q",
-    "Follow_directions_for_this_virus": "Poliovirus",
-    "Contact_time": 5,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 2,
     "Company": "Claire Manufacturing Company",
     "Formulation_type": [
       "Ready-to-use"
@@ -9534,7 +9593,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-03-19",
     "Safer_or_Toxic": "Toxic"
   },
@@ -10190,7 +10249,8 @@
     "Contact_time": 4,
     "Company": "Medentech LTD",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -10215,7 +10275,8 @@
     "Contact_time": 4,
     "Company": "Medentech LTD",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -11852,7 +11913,7 @@
     ],
     "Product_name": "Envirocleanse A",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Envirocleanse LLC",
     "Formulation_type": [
       "Ready-to-use",
@@ -12177,10 +12238,11 @@
     ],
     "Product_name": "Thymox Disinfectant Spray",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 3,
     "Company": "Laboratorie M2",
     "Formulation_type": [
-      "Ready-to-use"
+      "Ready-to-use",
+      "Electrostatic Spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -14249,8 +14311,8 @@
       "Isopropanol (Isopropyl alcohol)"
     ],
     "Product_name": "MBS MedTech Germicidal* Disposable Wipes",
-    "Follow_directions_for_this_virus": "Rhinovirus",
-    "Contact_time": 2,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Medical Biowaste Solutions Inc",
     "Formulation_type": [
       "Wipe"
@@ -14263,7 +14325,7 @@
       "Healthcare",
       "Institutional"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2021-05-25",
     "Safer_or_Toxic": "Toxic"
   },
@@ -14343,6 +14405,31 @@
     ],
     "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-12-17",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2223,
+    "EPA_reg_num": "97101-2",
+    "Active_ingredient": [
+      "Hypochlorous acid"
+    ],
+    "Product_name": "Simple Elements",
+    "Follow_directions_for_this_virus": null,
+    "Contact_time": 10,
+    "Company": "Sapphire Services LLC",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
+    "Date_on_List_N": "2021-11-23",
     "Safer_or_Toxic": "Toxic"
   },
   {
@@ -14593,6 +14680,31 @@
     ],
     "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2021-07-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2221,
+    "EPA_reg_num": "99783-1",
+    "Active_ingredient": [
+      "Hypochlorous acid"
+    ],
+    "Product_name": "TK60 One-Step Disinfectant",
+    "Follow_directions_for_this_virus": "Human coronavirus",
+    "Contact_time": 1,
+    "Company": "Bottom Line Distributers",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
+    "Date_on_List_N": "2021-11-23",
     "Safer_or_Toxic": "Toxic"
   }
 ]
