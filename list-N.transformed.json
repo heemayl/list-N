@@ -4308,6 +4308,30 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2280,
+    "EPA_reg_num": "46781-18",
+    "Active_ingredient": [
+      "Hydrogen Peroxide"
+    ],
+    "Product_name": "HP-Wipe-36",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
+    "Company": "Metrex Research",
+    "Formulation_type": [
+      "Wipe"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-02-22"
+  },
+  {
     "ID": 1404,
     "EPA_reg_num": "46781-6",
     "Active_ingredient": [
@@ -7902,10 +7926,11 @@
     ],
     "Product_name": "Lonza Formulation S-18F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -7950,10 +7975,11 @@
     ],
     "Product_name": "Lonza Formulation R-82F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -7975,10 +8001,11 @@
     ],
     "Product_name": "Lonza Formulation S-21F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8744,10 +8771,11 @@
     ],
     "Product_name": "Lonzagard R-82G",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8970,10 +8998,11 @@
     ],
     "Product_name": "Lonza Formulation S-21",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8995,10 +9024,11 @@
     ],
     "Product_name": "Lonza Formulation S-18",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -9020,10 +9050,11 @@
     ],
     "Product_name": "Lonza Formulation R-82",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
