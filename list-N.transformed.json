@@ -2264,8 +2264,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "Veterinarian Type Disinfectant",
-    "Follow_directions_for_this_virus": "Feline calicivirus; Norovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2276,7 +2276,7 @@
     "Use_site": [
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-03-26",
     "Safer_or_Toxic": "Toxic"
   },
@@ -2986,8 +2986,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "NP 12.5 Detergent/Disinfectant",
-    "Follow_directions_for_this_virus": "Adenovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -3000,7 +3000,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-03-26",
     "Safer_or_Toxic": "Toxic"
   },
@@ -3011,8 +3011,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "NP 9.0 Detergent/disinfectant",
-    "Follow_directions_for_this_virus": "Human coronavirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -3026,7 +3026,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-03-13",
     "Safer_or_Toxic": "Toxic"
   },
@@ -3140,8 +3140,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "NP 9.0 (D&F) Detergent/disinfectant",
-    "Follow_directions_for_this_virus": "Feline calicivirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -3155,7 +3155,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-23",
     "Safer_or_Toxic": "Toxic"
   },
@@ -3166,8 +3166,8 @@
       "Quaternary ammonium"
     ],
     "Product_name": "NP 12.5 (D&F) Detergent/Disinfectant",
-    "Follow_directions_for_this_virus": "Adenovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -3181,7 +3181,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
     "Date_on_List_N": "2020-03-26",
     "Safer_or_Toxic": "Toxic"
   },
@@ -8055,7 +8055,8 @@
     "Contact_time": 10,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8389,10 +8390,11 @@
     ],
     "Product_name": "Lonzagard RCS-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8414,10 +8416,11 @@
     ],
     "Product_name": "Lonzagard RCS-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8439,10 +8442,11 @@
     ],
     "Product_name": "Lonzagard RCS-128 PLUS",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -8464,10 +8468,11 @@
     ],
     "Product_name": "Lonzagard RCS-256 Plus",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 5,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -13036,6 +13041,30 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2281,
+    "EPA_reg_num": "9009-19",
+    "Active_ingredient": [
+      "Sodium Hypochlorite"
+    ],
+    "Product_name": "So White 7.5%",
+    "Follow_directions_for_this_virus": "Rhinovirus",
+    "Contact_time": 5,
+    "Company": "Online Packaging Inc",
+    "Formulation_type": [
+      "Dilutabe"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-02-22"
+  },
+  {
     "ID": 2020,
     "EPA_reg_num": "90094-1",
     "Active_ingredient": [
@@ -13821,7 +13850,7 @@
       "Hypochlorous acid"
     ],
     "Product_name": "Aquaox Disinfectant 525",
-    "Follow_directions_for_this_virus": "Human coronavirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
     "Company": "Aquaox LLC",
     "Formulation_type": [
@@ -13834,7 +13863,7 @@
       "Healthcare",
       "Institutional"
     ],
-    "Why_on_List_N": "Kills a human coronavirus similar SARS-CoV-2 (COVID-19)",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2021-05-25",
     "Safer_or_Toxic": "Toxic"
   },
