@@ -2168,7 +2168,8 @@
     "Contact_time": 0.5,
     "Company": "Ecolab Inc",
     "Formulation_type": [
-      "Dilutable"
+      "Dilutable",
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)",
@@ -8873,10 +8874,10 @@
     ],
     "Product_name": "DS-6640",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 1,
+    "Contact_time": 3,
     "Company": "Lonza LLC",
     "Formulation_type": [
-      "Ready-to-use"
+      "Electrostatic spray"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
@@ -11341,6 +11342,54 @@
     "Safer_or_Toxic": "Safer"
   },
   {
+    "ID": 2323,
+    "EPA_reg_num": "777-142",
+    "Active_ingredient": [
+      "Quatenary Ammonium"
+    ],
+    "Product_name": "Raven",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 5,
+    "Company": "Reckitt Benckiser LLC",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-04-26"
+  },
+  {
+    "ID": 2322,
+    "EPA_reg_num": "777-144",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Koeman",
+    "Follow_directions_for_this_virus": "Rotavirus",
+    "Contact_time": 10,
+    "Company": "Reckitt Benckiser LLC",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-04-26",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1142,
     "EPA_reg_num": "777-66",
     "Active_ingredient": [
@@ -13213,6 +13262,55 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2320,
+    "EPA_reg_num": "90606-1",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "DF-Pro Part A",
+    "Follow_directions_for_this_virus": "Feline calicivirus",
+    "Contact_time": 10,
+    "Company": "Decon Formulas",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-04-26",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2321,
+    "EPA_reg_num": "90606-2",
+    "Active_ingredient": [
+      "Hydrogen Peroxide"
+    ],
+    "Product_name": "DF-Pro Part B",
+    "Follow_directions_for_this_virus": "Feline calicivirus",
+    "Contact_time": 10,
+    "Company": "Decon Formulas",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-04-26"
+  },
+  {
     "ID": 1049,
     "EPA_reg_num": "90748-1",
     "Active_ingredient": [
@@ -14478,7 +14576,7 @@
       "Citric acid"
     ],
     "Product_name": "Arm & Hammer Essentials™ Disinfecting Wipes",
-    "Follow_directions_for_this_virus": "Rhinovirus",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
     "Company": "CR Brands Inc",
     "Formulation_type": [
@@ -14492,7 +14590,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-30",
     "Safer_or_Toxic": "Safer"
   },
@@ -15108,7 +15206,7 @@
     "Contact_time": 5,
     "Company": "Saltwater Biocides",
     "Formulation_type": [
-      "Generator"
+      "Ready-to-use"
     ],
     "Surface_type": [
       "Hard Nonporous (HN)"
