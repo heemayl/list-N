@@ -4471,7 +4471,7 @@
     "Product_name": "Formulation HWS- 256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "H&S Chemicals Division of Lonza LLC",
+    "Company": "H&S Chemicals Division of Arxada LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -4496,7 +4496,7 @@
     "Product_name": "Formulation HWS-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "H&S Chemicals Division of Lonza LLC",
+    "Company": "H&S Chemicals Division of Arxada LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -4521,7 +4521,7 @@
     "Product_name": "HWS-64",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "H&S Chemicals Division of Lonza LLC",
+    "Company": "H&S Chemicals Division of Arxada LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -4546,7 +4546,7 @@
     "Product_name": "Formulation HWS-32",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "H&S Chemicals Division of Lonza LLC",
+    "Company": "H&S Chemicals Division of Arxada LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -7974,7 +7974,7 @@
     "Product_name": "Lonza Formulation S-18F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8000,7 +8000,7 @@
     "Product_name": "Lonza Formulation S-38-F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Arxanda, LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8023,7 +8023,7 @@
     "Product_name": "Lonza Formulation R-82F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8049,7 +8049,7 @@
     "Product_name": "Lonza Formulation S-21F",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8075,7 +8075,7 @@
     "Product_name": "Lonza Formulation DC-103",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use"
     ],
@@ -8100,7 +8100,7 @@
     "Product_name": "BARDAC 205M-50",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8126,7 +8126,7 @@
     "Product_name": "CSP-46",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 2,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use"
     ],
@@ -8152,7 +8152,7 @@
     "Product_name": "BARDAC 205M-10",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8179,7 +8179,7 @@
     "Product_name": "BARDAC 205M-1.30",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8205,7 +8205,7 @@
     "Product_name": "BARDAC 205M- 14.08",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8231,7 +8231,7 @@
     "Product_name": "BARDAC 205M RTU",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use",
       "Electrostatic Spray"
@@ -8258,7 +8258,7 @@
     "Product_name": "BARDAC 205M-2.6",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8285,7 +8285,7 @@
     "Product_name": "BARDAC 205M-5.2",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8311,7 +8311,7 @@
     "Product_name": "BARDAC 205M-23",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8338,7 +8338,7 @@
     "Product_name": "Lonza Disinfectant Wipes",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8363,7 +8363,7 @@
     "Product_name": "MMR-4U",
     "Follow_directions_for_this_virus": "Feline calicivirus; Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use"
     ],
@@ -8389,7 +8389,7 @@
     "Product_name": "Lonza Disinfectant Wipes Plus",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8414,7 +8414,7 @@
     "Product_name": "Lonza Disinfectant Wipes Plus 2",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8438,7 +8438,7 @@
     "Product_name": "Lonzagard RCS-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8464,7 +8464,7 @@
     "Product_name": "Lonzagard RCS-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8490,7 +8490,7 @@
     "Product_name": "Lonzagard RCS-128 PLUS",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8516,7 +8516,7 @@
     "Product_name": "Lonzagard RCS-256 Plus",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8542,7 +8542,7 @@
     "Product_name": "Carbosan 50D",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8568,7 +8568,7 @@
     "Product_name": "Carbosan 20D",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8594,7 +8594,7 @@
     "Product_name": "Carbosan 7.5D",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8620,7 +8620,7 @@
     "Product_name": "Nugen MB5A-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8645,7 +8645,7 @@
     "Product_name": "Nugen MB5A-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8670,7 +8670,7 @@
     "Product_name": "Nugen MB5A-64",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -8695,7 +8695,7 @@
     "Product_name": "Nugen MB5N-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8721,7 +8721,7 @@
     "Product_name": "Nugen MB5N-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8747,7 +8747,7 @@
     "Product_name": "Nugen MB5N-64",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -8773,7 +8773,7 @@
     "Product_name": "Nugen 2m Disinfectant Wipes",
     "Follow_directions_for_this_virus": "Rotavirus",
     "Contact_time": 2,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8798,7 +8798,7 @@
     "Product_name": "Nugen NR Disinfecant Wipes",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8824,7 +8824,7 @@
     "Product_name": "Lonzagard R-82G",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -8850,7 +8850,7 @@
     "Product_name": "Nugen Low Streak Disinfectant Wipes",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8875,7 +8875,7 @@
     "Product_name": "DS-6640",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 3,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Electrostatic spray"
     ],
@@ -8900,7 +8900,7 @@
     "Product_name": "DS6809",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Wipe"
     ],
@@ -8925,7 +8925,7 @@
     "Product_name": "DS6835",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 0.5,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use",
       "Electrostatic Spray"
@@ -8951,7 +8951,7 @@
     "Product_name": "Nugen NR RTU",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Ready-to-use"
     ],
@@ -8977,7 +8977,7 @@
     "Product_name": "Nugen NR-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 4,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -9002,7 +9002,7 @@
     "Product_name": "BARDAC 205M-7.5",
     "Follow_directions_for_this_virus": "Norovirus",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic Spray"
@@ -9028,7 +9028,7 @@
     "Product_name": "Lonza Formulation S-38",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 1,
-    "Company": "Arxanda, LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable"
     ],
@@ -9051,7 +9051,7 @@
     "Product_name": "Lonza Formulation S-21",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -9077,7 +9077,7 @@
     "Product_name": "Lonza Formulation S-18",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
@@ -9103,7 +9103,7 @@
     "Product_name": "Lonza Formulation R-82",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
     "Contact_time": 10,
-    "Company": "Lonza LLC",
+    "Company": "Arxada, LLC",
     "Formulation_type": [
       "Dilutable",
       "Electrostatic spray"
