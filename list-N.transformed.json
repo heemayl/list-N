@@ -2317,7 +2317,7 @@
     ],
     "Product_name": "BTC 885 NDC-128",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2343,7 +2343,7 @@
     ],
     "Product_name": "BTC 885 Neutral Disinfectant Cleaner-256",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2368,7 +2368,7 @@
     ],
     "Product_name": "BTC 885 NDC-32",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2394,7 +2394,7 @@
     ],
     "Product_name": "BTC 885 Neutral Disinfectant Cleaner-64",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2472,7 +2472,7 @@
     ],
     "Product_name": "Liquid-pak Neutral Disinfectant Cleaner",
     "Follow_directions_for_this_virus": "SARS-CoV-2",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Stepan Company",
     "Formulation_type": [
       "Dilutable"
@@ -2931,6 +2931,31 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2364,
+    "EPA_reg_num": "1839-259",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "BTC 885 NDC RTU",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
+    "Company": "Stepan Company",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1398,
     "EPA_reg_num": "1839-78",
     "Active_ingredient": [
@@ -3273,7 +3298,7 @@
     ],
     "Product_name": "Ready to Use Thymol",
     "Follow_directions_for_this_virus": "Feline calicivirus",
-    "Contact_time": 10,
+    "Contact_time": 1,
     "Company": "Wexford Labs Inc",
     "Formulation_type": [
       "Ready-to-use"
@@ -4103,6 +4128,31 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2362,
+    "EPA_reg_num": "4564-27",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "DV 5-26762",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 5,
+    "Company": "Solvay USA, Inc",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1147,
     "EPA_reg_num": "45745-11",
     "Active_ingredient": [
@@ -4309,6 +4359,32 @@
     "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2022-02-22",
     "Safer_or_Toxic": "Safer"
+  },
+  {
+    "ID": 2368,
+    "EPA_reg_num": "46781-19",
+    "Active_ingredient": [
+      "Quaternary ammonium",
+      "Ethanol (Ethyl alcohol)"
+    ],
+    "Product_name": "QHA-45-W",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
+    "Company": "Metrex Research",
+    "Formulation_type": [
+      "Wipe"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
   },
   {
     "ID": 1404,
@@ -4852,6 +4928,55 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2369,
+    "EPA_reg_num": "49547-16",
+    "Active_ingredient": [
+      "Sodium hypochlorite"
+    ],
+    "Product_name": "CLNSL",
+    "Follow_directions_for_this_virus": "Rhinovirus type 37",
+    "Contact_time": 6,
+    "Company": "Alen Del Norte, S.A. DE C.V.",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2360,
+    "EPA_reg_num": "4959-1",
+    "Active_ingredient": [
+      "Hydrogen peroxide",
+      "Peroxyacetic acid (Peracetic acid)"
+    ],
+    "Product_name": "Acidishine",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 10,
+    "Company": "West Agro Inc",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Institutional"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1055,
     "EPA_reg_num": "4959-16",
     "Active_ingredient": [
@@ -5296,6 +5421,31 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2366,
+    "EPA_reg_num": "5741-32",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Profect Neutral 256",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 10,
+    "Company": "Spartan Chemical Company, Inc",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 2181,
     "EPA_reg_num": "5741-33",
     "Active_ingredient": [
@@ -5320,6 +5470,56 @@
     "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": null,
     "Safer_or_Toxic": "Safer"
+  },
+  {
+    "ID": 2365,
+    "EPA_reg_num": "5741-34",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Profect Neutral 128 (5741-xx)",
+    "Follow_directions_for_this_virus": "Feline Picornavirus; Human Rotavirus",
+    "Contact_time": 10,
+    "Company": "Spartan Chemical Company, Inc",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2370,
+    "EPA_reg_num": "5741-35",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Profect Neutral 64",
+    "Follow_directions_for_this_virus": "Feline Picornavirus; Human Rotavirus",
+    "Contact_time": 10,
+    "Company": "Spartan Chemical Company, Inc",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
   },
   {
     "ID": 1124,
@@ -9161,6 +9361,31 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2361,
+    "EPA_reg_num": "69268-4",
+    "Active_ingredient": [
+      "Hydrogen peroxide"
+    ],
+    "Product_name": "Envirox Storm",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
+    "Company": "Envirox, LLC",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Safer"
+  },
+  {
     "ID": 1287,
     "EPA_reg_num": "69470-37",
     "Active_ingredient": [
@@ -11640,6 +11865,31 @@
     "Safer_or_Toxic": "Toxic"
   },
   {
+    "ID": 2367,
+    "EPA_reg_num": "82523-3",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "Aerisguard Surface Treatment",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 10,
+    "Company": "Aeris Environmental, LTD",
+    "Formulation_type": [
+      "Ready-to-use"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19)",
+    "Date_on_List_N": "2022-06-27",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
     "ID": 1194,
     "EPA_reg_num": "82972-1",
     "Active_ingredient": [
@@ -12129,8 +12379,8 @@
       "Thymol"
     ],
     "Product_name": "Benefect Botanical Daily Cleaner Disinfectant Spray",
-    "Follow_directions_for_this_virus": "Rhinovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Cleanwell LLC",
     "Formulation_type": [
       "Ready-to-use"
@@ -12144,7 +12394,7 @@
       "Institutional",
       "Residential"
     ],
-    "Why_on_List_N": "Kills a harder-to-kill pathogen than SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2020-04-02",
     "Safer_or_Toxic": "Safer"
   },
@@ -12155,8 +12405,8 @@
       "Thymol"
     ],
     "Product_name": "Benefect Botanical Daily Cleaner Disinfectant Towelette",
-    "Follow_directions_for_this_virus": "Rhinovirus",
-    "Contact_time": 10,
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 1,
     "Company": "Cleanwell LLC",
     "Formulation_type": [
       "Wipe"
@@ -14266,6 +14516,32 @@
     ],
     "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
     "Date_on_List_N": "2021-05-11",
+    "Safer_or_Toxic": "Toxic"
+  },
+  {
+    "ID": 2363,
+    "EPA_reg_num": "94602-26",
+    "Active_ingredient": [
+      "Quaternary ammonium"
+    ],
+    "Product_name": "GBS 10% Sanitizer",
+    "Follow_directions_for_this_virus": "SARS-CoV-2",
+    "Contact_time": 10,
+    "Company": "Gray Beard, LLC",
+    "Formulation_type": [
+      "Dilutable"
+    ],
+    "Surface_type": [
+      "Hard Nonporous (HN)",
+      "Porous (P)(laundry presoak only)"
+    ],
+    "Use_site": [
+      "Healthcare",
+      "Institutional",
+      "Residential"
+    ],
+    "Why_on_List_N": "Tested against SARS-CoV-2 (COVID-19); Emerging viral pathogen claim",
+    "Date_on_List_N": "2022-06-27",
     "Safer_or_Toxic": "Toxic"
   },
   {
